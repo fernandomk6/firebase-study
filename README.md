@@ -1,2 +1,2 @@
 # firebase-study
-Estudo sobre o firebase
+Estudo sobre firebase
